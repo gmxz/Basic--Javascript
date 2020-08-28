@@ -37,3 +37,10 @@ function whatSex(sex) {
 
 console.log(whatSex('F'))
 
+//Ternary conditional
+
+function oddTest(number) {
+    return (number % 2 === 1) ? true : false
+}
+console.log(oddTest(17)) //true
+console.log(oddTest(12)) //false
