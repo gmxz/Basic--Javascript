@@ -7,7 +7,7 @@ if (age < 18) {
 }
 else {
     console.log('You are adult');
-}
+} //you are adult
 
 // Can also be passed through a function
 
@@ -35,7 +35,7 @@ function whatSex(sex) {
     }
 }
 
-console.log(whatSex('F'))
+console.log(whatSex('F')) //Female
 
 //Ternary conditional
 
